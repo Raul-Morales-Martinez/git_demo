@@ -1,0 +1,6 @@
+ingresar a link de github
+realizar el fork
+modificar el archivo en mi repositorio
+realizar un comit
+clonar el repositorio 
+y subir este archivo
